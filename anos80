@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBe5BstUAWFahjQSCf5Ye8drqmBpgKn2hLPA&usqp=CAU", Os Maiores Sucessos Dos Anos 80  Vol. 1 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ipCji-4Cm0s
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YMUVEeW.jpg", Os Maiores Sucessos Dos Anos 80  Vol. 2 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=tvL_8ot0ecM
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTL2rMDpERfkm9rzzbsu9SZ-asTyNk326pblA&usqp=CAU", Os Maiores Sucessos Dos Anos 80 Vol. 3 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4g3oyAZ3kkg
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQawFVFwDpQhbApapdcvLE6IlabiQECvFIMng&usqp=CAU", Os Maiores Sucessos Dos Anos 80 Vol. 4 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=DtACiIPVzoI
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS3U-Q3BorUvBu9tPAwSN9cufdCs-tleClZxw&usqp=CAU", Os Maiores Sucessos Dos Anos 80 Vol. 5 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=UngHgPzN-9w
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_8ca6903e4e4f4765a66c07b907301920~mv2.jpg", Os Maiores Sucessos Dos Anos 80  Vol. 6 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=iZke052-Y_c
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/104/full/20210501_114129.jpg?1619880227", Os Maiores Sucessos Dos Anos 80  Vol. 7 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ziwKGHuQu5A
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/003/222/108/full/20210501_114546.jpg?1619880409", Os Maiores Sucessos Dos Anos 80  Vol. 8 Internacional
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U75kN_mmyeQ
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
